@@ -1,3 +1,4 @@
+/* eslint-disable no-eval */
 import React, { Component } from 'react';
 import './App.css';
 import ResultComponent from './components/ResultComponent';
